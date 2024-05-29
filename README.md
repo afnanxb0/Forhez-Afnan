@@ -1,7 +1,5 @@
-# Forhez-Afnan
-SOC Analyst Portfolio: A comprehensive showcase of my projects, certifications, and lab exercises completed as part of my SOC Analyst training. Includes detailed documentation of hands-on projects in threat detection, incident response, log analysis, and malware analysis.
-# Hello, I'm Forhez Afnan
-<a href="linkedin.com/in/forhez-ahmad-afnan-3b3b6223a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm CHANGEME
+<a href="https://linkedin.com/in/forhez-ahmad-afnan-3b3b6223a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
