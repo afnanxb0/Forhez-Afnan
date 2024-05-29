@@ -57,4 +57,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
  
 ## Projects
 - <a href="https://github.com/afnanxb0/Hacking-tools-with-Python">Hacking-tools-with-Python</a>
-- SOC Automation Project
+- <a href="https://github.com/afnanxb0/Python-firewall-defender">Python-firewall-defender</a>
