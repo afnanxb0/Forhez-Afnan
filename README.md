@@ -54,7 +54,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
- 
+
+## <a href="https://github.com/afnanxb0/SOC-Lab-Completion-Certificates/tree/main">SOC-Lab-Completion-Certificates</a>
+These 24 labs are part of the Security Blue Team Level 1 Certification program, which comes with 100 hours of access. I optimized all 100 hours to gain a solid grasp of the SOC analyst role. Verification links have been added for all completed labs to allow verification, along with a brief description of each lab detailing the skills and knowledge I gained using various tools.
+
 ## Projects
 - <a href="https://github.com/afnanxb0/Hacking-tools-with-Python">Hacking-tools-with-Python</a>
 - <a href="https://github.com/afnanxb0/Python-firewall-defender">Python-firewall-defender</a>
