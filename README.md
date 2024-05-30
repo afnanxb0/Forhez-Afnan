@@ -63,4 +63,6 @@ These 24 labs are part of the Security Blue Team Level 1 Certification program, 
 
 ## Projects
 - <a href="https://github.com/afnanxb0/Hacking-tools-with-Python">Hacking-tools-with-Python</a>
+- <a href="https://drive.google.com/drive/folders/1vyU2WUYWtXi5CzPepiT402ka7Kc0JY5j?usp=drive_link">Ethical Hacking Labs</a>
 - <a href="https://github.com/afnanxb0/Python-firewall-defender">Python-firewall-defender</a>
+ 
