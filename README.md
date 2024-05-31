@@ -29,14 +29,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <a href="https://github.com/afnanxb0/Analyzing-with-Wireshark"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </a>
     <a href="https://github.com/afnanxb0/Explore-signatures-and-logs-with-Suricata"> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> </a>
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+
 
 ### SIEM
 <div>
@@ -54,10 +49,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Job Simulation Certification
+<div>
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._ZhXNXRZmHDvyxNAPE_1704570706370_completion_certificate.pdf"> <img src="https://img.shields.io/badge/JPMorgan%20Chase%20&%20Co.%20--%20Cybersecurity%20Job%20Simulation-blue?logo=JPMorgan" /> </a>
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_ZhXNXRZmHDvyxNAPE_1704561614549_completion_certificate.pdf"> <img src="https://img.shields.io/badge/Mastercard%20--%20Cybersecurity%20Job%20Simulation-blue?logo=mastercard" /> </a>
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_ZhXNXRZmHDvyxNAPE_1704579562669_completion_certificate.pdf"> <img src="https://img.shields.io/badge/Telstra%20--%20Cybersecurity%20Job%20Simulation-blue?logo=telstra" /> </a>
-
+</div>
 
 ## <a href="https://github.com/afnanxb0/SOC-Lab-Completion-Certificates/tree/main">SOC-Lab-Completion-Certificates</a>
 
