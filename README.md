@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Forhez
 <a href="https://linkedin.com/in/forhez-ahmad-afnan-3b3b6223a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
@@ -27,7 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <a href="https://github.com/afnanxb0/Analyzing-with-Wireshark"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </a>
+    <a href="https://elearning.securityblue.team/public/lab-certificate/730caf39-a177-43c1-ab73-560abadd4eb2"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </a>
     <a href="https://github.com/afnanxb0/Explore-signatures-and-logs-with-Suricata"> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> </a>
 </div>
 
@@ -35,9 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="https://elearning.securityblue.team/public/lab-certificate/47fcbe86-6367-46d8-a095-cf94930ebcd4" > <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </a>
 </div>
 
 ## Certifications
