@@ -57,8 +57,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Blue Team Labs Online
+<div>
 <a href="https://blueteamlabs.online/achievement/share/57898/32"> <img src="https://img.shields.io/badge/DeepBlueCli%20and%20Event%20Log%20Analysis-blue" /></a>
 <a href="https://blueteamlabs.online/achievement/share/challenge/57898/7" > <img src="https://img.shields.io/badge/Malware%20Powershell%20Analysis-blue" /></a>
+<a href="https://blueteamlabs.online/achievement/share/challenge/57898/16" > <img src="https://img.shields.io/badge/Phishing%20Analysis-blue" /> </a>
+</div>
+
 ## Projects
 - <a href="https://github.com/afnanxb0/Hacking-tools-with-Python">Hacking-tools-with-Python</a>
 - <a href="https://drive.google.com/drive/folders/1vyU2WUYWtXi5CzPepiT402ka7Kc0JY5j?usp=drive_link">Ethical Hacking Labs</a>
