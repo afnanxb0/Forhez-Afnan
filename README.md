@@ -41,6 +41,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
+<a href="https://www.credly.com/badges/1e20bbc7-5b0c-45e4-9b79-e200897e06cf/public_url"> <img src="https://img.shields.io/badge/Security%20Blue%20Team%20Level%201-blue?logo=Security%20Blue%20Team" /> </a>   
 <a href="https://www.credly.com/badges/d25ebe26-2d36-4179-bb0f-59771fbd0a2f/public_url"> <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-red?logo=google" /> </a>
 <a href="https://www.credly.com/badges/d25ebe26-2d36-4179-bb0f-59771fbd0a2f/public_url"> <img src="https://img.shields.io/badge/CISCO%20Ethical%20Hacker-blue?logo=cisco" /> </a>
 <a href="https://www.credly.com/badges/40ca4a3c-7218-404c-aee3-0eb51a6442cc/public_url"> <img src="https://img.shields.io/badge/CISCO%20Networking%20Basics-blue?logo=cisco" /> </a>    
