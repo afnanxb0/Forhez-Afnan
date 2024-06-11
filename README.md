@@ -1,6 +1,9 @@
 # Hello, I'm Forhez
 <a href="https://linkedin.com/in/forhez-ahmad-afnan-3b3b6223a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a passionate cybersecurity enthusiast with a keen interest in threat detection and incident response. I'm on a journey to enhance my skills in SOC analysis and cybersecurity automation. Currently exploring various tools and techniques to strengthen defense strategies. 
+
+🔒 Cybersecurity | 💻 SOC Analyst | 🛠️ Automation Enthusiast
 
 
 
@@ -15,7 +18,7 @@ My journey in technology world has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://elearning.securityblue.team/public/lab-certificate/196b7f78-2c5f-4a73-a456-acc55d73f8f4">Project Link</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://elearning.securityblue.team/public/lab-certificate/196b7f78-2c5f-4a73-a456-acc55d73f8f4">Lab Completion</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://drive.google.com/drive/folders/1CloicmtvSXv3P72lByZ0wAoTEqeTA7cT">Project Link</a>|
 | Incident Response Planning and Execution      | <a href="https://drive.google.com/drive/folders/1NdICP1eD31Q1OZWP1CYH3oDC-0WHBKzN?usp=sharing">Project Link</a>|
 | Case Management with TheHive                  | <a href="https://elearning.securityblue.team/public/lab-certificate/97449d84-2ab5-4a82-853c-e4311739b033">Lab Completion</a>|
