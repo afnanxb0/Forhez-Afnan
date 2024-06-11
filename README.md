@@ -75,9 +75,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://drive.google.com/drive/folders/1NdICP1eD31Q1OZWP1CYH3oDC-0WHBKzN?usp=sharing">Phishing incident response using a playbook</a>
 - <a href="https://drive.google.com/drive/folders/1Uc2jU8sIUgJT2IYtJYHoPYnlnWRfyRI5">Incident report - network traffic analysis</a>
 - <a href="https://drive.google.com/drive/folders/1fmOwRE4SJUaxBKrGrAEmoC-v6whjLPEc?usp=sharing">Review a final report</a>
-- 
-- <a href="https://drive.google.com/drive/folders/1NdICP1eD31Q1OZWP1CYH3oDC-0WHBKzN?usp=sharing">Phishing incident response using a playbook</a>
-- <a href="https://drive.google.com/drive/folders/1NdICP1eD31Q1OZWP1CYH3oDC-0WHBKzN?usp=sharing">Phishing incident response using a playbook</a>
-- <a href="https://drive.google.com/drive/folders/1NdICP1eD31Q1OZWP1CYH3oDC-0WHBKzN?usp=sharing">Phishing incident response using a playbook</a>
-- <a href="https://drive.google.com/drive/folders/1NdICP1eD31Q1OZWP1CYH3oDC-0WHBKzN?usp=sharing">Phishing incident response using a playbook</a>
-- <a href="https://drive.google.com/drive/folders/1Buy0Wtyu84MQkTyIzZh2LGKw9aZ5Zgnc">Incident handlers journal-</a> 
+  
