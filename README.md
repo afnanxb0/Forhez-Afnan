@@ -15,12 +15,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://elearning.securityblue.team/public/lab-certificate/196b7f78-2c5f-4a73-a456-acc55d73f8f4">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://drive.google.com/drive/folders/1CloicmtvSXv3P72lByZ0wAoTEqeTA7cT">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://elearning.securityblue.team/public/lab-certificate/196b7f78-2c5f-4a73-a456-acc55d73f8f4">Project Link</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://drive.google.com/drive/folders/1CloicmtvSXv3P72lByZ0wAoTEqeTA7cT">Project Link</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://drive.google.com/drive/folders/1NdICP1eD31Q1OZWP1CYH3oDC-0WHBKzN?usp=sharing">Project Link</a>|
 | Case Management with TheHive                  | <a href="https://elearning.securityblue.team/public/lab-certificate/97449d84-2ab5-4a82-853c-e4311739b033">Lab Completion</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/afnanxb0/Python-firewall-defender">Python-firewall-defender</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -69,10 +69,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/afnanxb0/Hacking-tools-with-Python">Hacking-tools-with-Python</a>
 - <a href="https://drive.google.com/drive/folders/1vyU2WUYWtXi5CzPepiT402ka7Kc0JY5j?usp=drive_link">Ethical Hacking Labs</a>
-- <a href="https://github.com/afnanxb0/Python-firewall-defender">Python-firewall-defender</a>
 - <a href="https://drive.google.com/drive/folders/19BlVjuSdUXVADhMgBFSTXCetK3RyvjHN?usp=sharing">SOC Linux and SQL Projects</a>
 - <a href="https://drive.google.com/drive/folders/1T37zIM39l0JHpPpPw6p341QwHTAwxPEf?usp=sharing">Investigate a suspicious file hash</a>
-- <a href="https://drive.google.com/drive/folders/1NdICP1eD31Q1OZWP1CYH3oDC-0WHBKzN?usp=sharing">Phishing incident response using a playbook</a>
 - <a href="https://drive.google.com/drive/folders/1Uc2jU8sIUgJT2IYtJYHoPYnlnWRfyRI5">Incident report - network traffic analysis</a>
 - <a href="https://drive.google.com/drive/folders/1fmOwRE4SJUaxBKrGrAEmoC-v6whjLPEc?usp=sharing">Review a final report</a>
   
