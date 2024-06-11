@@ -41,17 +41,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-<a href="https://www.credly.com/badges/1e20bbc7-5b0c-45e4-9b79-e200897e06cf/public_url"> <img src="https://img.shields.io/badge/Security%20Blue%20Team%20Level%201-blue?logo=Security%20Blue%20Team" /> </a>   
-<a href="https://www.credly.com/badges/d25ebe26-2d36-4179-bb0f-59771fbd0a2f/public_url"> <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-red?logo=google" /> </a>
-<a href="https://www.credly.com/badges/d25ebe26-2d36-4179-bb0f-59771fbd0a2f/public_url"> <img src="https://img.shields.io/badge/CISCO%20Ethical%20Hacker-blue?logo=cisco&logoColor=white" /> </a>
-<a href="https://www.credly.com/badges/40ca4a3c-7218-404c-aee3-0eb51a6442cc/public_url"> <img src="https://img.shields.io/badge/CISCO%20Networking%20Basics-blue?logo=cisco&logoColor=white" /> </a>    
+<a href="https://www.credly.com/badges/1e20bbc7-5b0c-45e4-9b79-e200897e06cf/public_url"> <img src="https://img.shields.io/badge/Security%20Blue%20Team%20Level%201-blue?&style=for-the-badge&logo=Security%20Blue%20Team" /> </a>   
+<a href="https://www.credly.com/badges/d25ebe26-2d36-4179-bb0f-59771fbd0a2f/public_url"> <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-red?&style=for-the-badge&logo=google" /> </a>
+<a href="https://www.credly.com/badges/d25ebe26-2d36-4179-bb0f-59771fbd0a2f/public_url"> <img src="https://img.shields.io/badge/CISCO%20Ethical%20Hacker-blue?logo=cisco&&style=for-the-badge&logoColor=white" /> </a>
+<a href="https://www.credly.com/badges/40ca4a3c-7218-404c-aee3-0eb51a6442cc/public_url"> <img src="https://img.shields.io/badge/CISCO%20Networking%20Basics-blue?&style=for-the-badge&logo=cisco&logoColor=white" /> </a>    
 </div>
 
 ## Job Simulation Certification
 <div>
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._ZhXNXRZmHDvyxNAPE_1704570706370_completion_certificate.pdf"> <img src="https://img.shields.io/badge/JPMorgan%20Chase%20&%20Co.%20--%20Cybersecurity%20Job%20Simulation-blue?logo=JPMorgan" /> </a>
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_ZhXNXRZmHDvyxNAPE_1704561614549_completion_certificate.pdf"> <img src="https://img.shields.io/badge/Mastercard%20--%20Cybersecurity%20Job%20Simulation-blue?logo=mastercard" /> </a>
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_ZhXNXRZmHDvyxNAPE_1704579562669_completion_certificate.pdf"> <img src="https://img.shields.io/badge/Telstra%20--%20Cybersecurity%20Job%20Simulation-blue?logo=telstra" /> </a>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._ZhXNXRZmHDvyxNAPE_1704570706370_completion_certificate.pdf"> <img src="https://img.shields.io/badge/JPMorgan%20Chase%20&%20Co.%20--%20Cybersecurity%20Job%20Simulation-blue?&style=for-the-badge&logo=JPMorgan" /> </a>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_ZhXNXRZmHDvyxNAPE_1704561614549_completion_certificate.pdf"> <img src="https://img.shields.io/badge/Mastercard%20--%20Cybersecurity%20Job%20Simulation-blue?&style=for-the-badge&logo=mastercard" /> </a>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_ZhXNXRZmHDvyxNAPE_1704579562669_completion_certificate.pdf"> <img src="https://img.shields.io/badge/Telstra%20--%20Cybersecurity%20Job%20Simulation-blue?&style=for-the-badge&logo=telstra" /> </a>
 </div>
 
 ## <a href="https://github.com/afnanxb0/SOC-Lab-Completion-Certificates/tree/main">SOC-Lab-Completion-Certificates</a>
@@ -59,10 +59,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Blue Team Labs Online
 <div>
-<a href="https://blueteamlabs.online/achievement/share/57898/32"> <img src="https://img.shields.io/badge/DeepBlueCli%20and%20Event%20Log%20Analysis-blue" /></a>
-<a href="https://blueteamlabs.online/achievement/share/challenge/57898/7" > <img src="https://img.shields.io/badge/Malware%20Powershell%20Analysis-blue" /></a>
-<a href="https://blueteamlabs.online/achievement/share/challenge/57898/16" > <img src="https://img.shields.io/badge/Phishing%20Analysis-blue" /> </a>
-<a href="https://blueteamlabs.online/achievement/share/challenge/57898/24" > <img src="https://img.shields.io/badge/Phishing%20Analysis%202-blue" /> </a>
+<a href="https://blueteamlabs.online/achievement/share/57898/32"> <img src="https://img.shields.io/badge/DeepBlueCli%20and%20Event%20Log%20Analysis-blue?&style=for-the-badge&" /></a>
+<a href="https://blueteamlabs.online/achievement/share/challenge/57898/7" > <img src="https://img.shields.io/badge/Malware%20Powershell%20Analysis-blue?&style=for-the-badge&" /></a>
+<a href="https://blueteamlabs.online/achievement/share/challenge/57898/16" > <img src="https://img.shields.io/badge/Phishing%20Analysis-blue?&style=for-the-badge&" /> </a>
+<a href="https://blueteamlabs.online/achievement/share/challenge/57898/24" > <img src="https://img.shields.io/badge/Phishing%20Analysis%202-blue?&style=for-the-badge&" /> </a>
 <a href="https://blueteamlabs.online/achievement/share/challenge/57898/3" > <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis%20Ransomware-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"</a>
 </div>
 
