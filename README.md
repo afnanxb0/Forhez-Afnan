@@ -38,6 +38,7 @@ My journey in technology world has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
     <a href="https://elearning.securityblue.team/public/lab-certificate/47fcbe86-6367-46d8-a095-cf94930ebcd4" > <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </a>
+    <a href="https://tryhackme.com/forhez.ahmad.afn/badges/advanced-splunk"> <img src="https://img.shields.io/badge/-Tryhackme%20Splunk%20King-000000?&style=for-the-badge&logo=Splunk&logoColor=green" /> </a>
 </div>
 
 
@@ -79,6 +80,7 @@ My journey in technology world has led me to develop a passion for cybersecurity
     <a href="https://blueteamlabs.online/achievement/share/challenge/57898/24" > <img src="https://img.shields.io/badge/Phishing%20Analysis%202-blue?&style=for-the-badge&" /> </a>
     <a href="https://blueteamlabs.online/achievement/share/challenge/57898/3" > <img src="https://img.shields.io/badge/Wireshark%20Network%20Analysis%20Ransomware-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"</a>
 </div>
+
 
 ## Projects
 - <a href="https://github.com/afnanxb0/Hacking-tools-with-Python">Hacking-tools-with-Python</a>
