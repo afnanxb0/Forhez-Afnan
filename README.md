@@ -38,7 +38,7 @@ My journey in technology world has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
     <a href="https://elearning.securityblue.team/public/lab-certificate/47fcbe86-6367-46d8-a095-cf94930ebcd4" > <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </a>
-    <a href="https://tryhackme.com/forhez.ahmad.afn/badges/advanced-splunk"> <img src="https://img.shields.io/badge/-Tryhackme%20Splunk%20King-000000?&style=for-the-badge&logo=Splunk&logoColor=green" /> </a>
+    <a href="https://tryhackme.com/forhez.ahmad.afn/badges/advanced-splunk"> <img src="https://tryhackme-badges.s3.amazonaws.com/forhez.ahmad.afn.png" alt="Splunk King"> </a>
 </div>
 
 
