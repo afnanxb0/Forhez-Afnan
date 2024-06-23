@@ -19,11 +19,12 @@ My journey in technology world has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://elearning.securityblue.team/public/lab-certificate/196b7f78-2c5f-4a73-a456-acc55d73f8f4">Lab Completion</a>|
+| Log Analysis                                  | <a href="https://tryhackme.com/forhez.ahmad.afn/badges/logging-legend">Lab Completion</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://drive.google.com/drive/folders/1CloicmtvSXv3P72lByZ0wAoTEqeTA7cT">Project Link</a>|
 | Incident Response Planning and Execution      | <a href="https://drive.google.com/drive/folders/1NdICP1eD31Q1OZWP1CYH3oDC-0WHBKzN?usp=sharing">Project Link</a>|
 | Case Management with TheHive                  | <a href="https://elearning.securityblue.team/public/lab-certificate/97449d84-2ab5-4a82-853c-e4311739b033">Lab Completion</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/afnanxb0/Python-firewall-defender">Python-firewall-defender</a>|
-
+ 
 ## Tools
 
 
